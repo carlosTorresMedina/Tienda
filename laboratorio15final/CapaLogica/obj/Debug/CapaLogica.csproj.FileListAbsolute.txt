@@ -1,0 +1,14 @@
+C:\Users\carlos\Desktop\laboratorio15final\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\carlos\Desktop\laboratorio15final\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\carlos\Desktop\laboratorio15final\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\carlos\Desktop\laboratorio15final\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\carlos\Desktop\laboratorio15final\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\laboratorio15final\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\carlos\Desktop\laboratorio15final\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaLogica\obj\Debug\CapaLogica.pdb

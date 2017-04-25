@@ -1,0 +1,13 @@
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\bin\Debug\capaPruebas.exe.config
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\bin\Debug\capaPruebas.exe
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\bin\Debug\capaPruebas.pdb
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\bin\Debug\CapaDatos.dll
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\bin\Debug\CapaLogica.dll
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\bin\Debug\CapaDatos.pdb
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\bin\Debug\CapaLogica.pdb
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\obj\Debug\capaPruebas.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\obj\Debug\capaPruebas.Form1.resources
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\obj\Debug\capaPruebas.Properties.Resources.resources
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\obj\Debug\capaPruebas.csproj.GenerateResource.Cache
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\obj\Debug\capaPruebas.exe
+C:\Users\carlos\Desktop\laboratorio15final\capaPruebas\obj\Debug\capaPruebas.pdb

@@ -1,0 +1,10 @@
+C:\Users\carlos\Desktop\laboratorio15final\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carlos\Desktop\laboratorio15final\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carlos\Desktop\laboratorio15final\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carlos\Desktop\laboratorio15final\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carlos\Desktop\laboratorio15final\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carlos\Desktop\lab16\c#\laboratorio15final\CapaDatos\obj\Debug\CapaDatos.pdb
